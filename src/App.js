@@ -1,25 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import { useTranslation, withTranslation } from 'react-i18next';
 
-function App() {
+function MyComponent() {
+
+  const {t, i18n} = useTranslation();
+  const changeLanguage = (lng) => {
+    i18n.changeLanguage(lng);
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className='traduction'>
+        <div className='traductionInputs'>
+        <button className='traductionInput' type="button" onClick={() => changeLanguage('question')}>Reset</button>
+        <button className='traductionInput' type="button" onClick={() => changeLanguage('fr')}>Français</button>
+        <button className='traductionInput' type="button" onClick={() => changeLanguage('en')}>English</button>
+        </div>
+          
+
+        <p>{t("Welcome")}</p>
+      </div>
   );
 }
 
-export default App;
+
+export default withTranslation()(MyComponent);
