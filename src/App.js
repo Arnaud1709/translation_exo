@@ -2,13 +2,13 @@ import './App.css';
 import { useTranslation, withTranslation } from 'react-i18next';
 
 function MyComponent() {
-
+// Creation of the constant and the hook
   const {t, i18n} = useTranslation();
-  
+
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
   }
-
+// Return the buttons with an event who called the content en the json file
   return (
       <div className='traduction'>
       <h1 className='traductionTitle'>{t("fact")}</h1>
