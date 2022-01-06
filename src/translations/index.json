@@ -1,0 +1,68 @@
+{   
+    "question":{
+        "translation": {
+            "language1":"French",
+            "language2":"English",
+            "language3":"Polish",
+            "language4":"Spanish",
+            "language5":"Swedish",
+            "fact":"You need to know",
+            "Welcome": "Is dev a good situation?"
+        }
+    },
+    "en": {
+        "translation": {
+            "language1":"French",
+            "language2":"English",
+            "language3":"Polish",
+            "language4":"Spanish",
+            "language5":"Swedish",
+            "fact":"Quote to know",
+            "Welcome": "You know, I don't believe that there is a good or bad situation. If I had to sum up my life with you today, I would say that it's abose all meetings. People who reached out to me, perhaps at a time when I couldn't, when I was alone at home. And it's quite curious to think that chance meetings forge a destiny... Because when you have a taste for things, when you have a taste for well done things, for beautiful gestures, sometimes you don't find the person opposite, I would say, the mirror that helps you to move forward. This is not my case, as I was saying, because I, on the contrary, have been able to; and I say thank you to life, I say thank you to it, I sing life, I dance life... I am only love! And finally, when people say to me « But how do you manage to have this humanity? », I answer them very simply that it is this taste for love, this taste which pushed me today to engaged a mechanical construction... but tomorrow who knows? Maybe simply to put myself at the service of the community, to make the gift, the gift of myself."
+        }
+    },
+    "fr":{
+        "translation": {
+            "language1":"Français",
+            "language2":"Anglais",
+            "language3":"Polonais",
+            "language4":"Espagnol",
+            "language5":"Suedois",
+            "fact":"Citation à connaitre",
+            "Welcome": "Vous savez, moi je ne crois pas qu'il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd'hui avec vous, je dirais que c'est d'abord des rencontres. Des gens qui m'ont tendu la main, peut-être à un moment où je ne pouvais pas, où j'étais seul chez moi. Et c'est assez curieux de se dire que les hasards, les rencontres forgent une destinée... Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l'interlocuteur en face je dirais, le miroir qui vous aide à avancer. Alors ça n'est pas mon cas, comme je disais là, puisque moi au contraire, j'ai pu ; et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie... je ne suis qu'amour ! Et finalement, quand des gens me disent « Mais comment fais-tu pour avoir cette humanité ? », je leur réponds très simplement que c'est ce goût de l'amour, ce goût donc qui m'a poussé aujourd'hui à entreprendre une construction mécanique... mais demain qui sait ? Peut-être simplement à me mettre au service de la communauté, à faire le don, le don de soi."
+        }
+    },
+    "pl":{
+        "translation":{
+            "language1":"Francuski",
+            "language2":"Angielski",
+            "language3":"Polski",
+            "language4":"Hiszpański",
+            "language5":"Szwedzki",
+            "fact":"Cytat, który warto znać",
+            "Welcome": "Wiesz, nie wierzę, że istnieje dobra lub zła sytuacja. Gdybym miał podsumować z Wami moje dzisiejsze życie, powiedziałbym, że jest ono przede wszystkim spotkaniami. Ludzie, którzy wyciągnęli do mnie rękę, być może w czasie, kiedy ja nie mogłam, kiedy byłam sama w domu. I dość dziwnie jest myśleć, że przypadkowe spotkania wykuwają przeznaczenie... Bo kiedy masz upodobanie do rzeczy, kiedy masz upodobanie do czegoś dobrze zrobionego, pięknego gestu, czasami nie znajdujesz osoby naprzeciwko, powiedziałbym, lustra, które pomaga ci iść naprzód. Więc to nie jest mój przypadek, jak mówiłem, ponieważ przeciwnie, byłem w stanie; i mówię dziękuję życiu, mówię mu dziękuję, śpiewam życie, tańczę życie... Jestem tylko miłością! I wreszcie, kiedy ludzie mówią mi: « Ale jak ty to robisz, że masz w sobie tyle człowieczeństwa? », odpowiadam im prosto, że to właśnie ten smak miłości, ten smak, który popchnął mnie dzisiaj do podjęcia się budowy mechanicznej... ale jutro, kto wie? Może po prostu oddać się na służbę wspólnoty, złożyć dar, dar z siebie."
+        }
+    },
+    "es":{
+        "translation":{
+            "language1":"Francés",
+            "language2":"Inglés",
+            "language3":"Polaco",
+            "language4":"Español",
+            "language5":"Sueco",
+            "fact":"Cita para saber",
+            "Welcome": "No creo que haya una situación buena o mala. Si tuviera que resumir mi vida actual con ustedes, diría que lo primero son los encuentros. Personas que me tendieron la mano, quizás en un momento en que yo no podía, cuando estaba solo en casa. Y es bastante extraño pensar que los encuentros casuales forjan un destino... Porque cuando se tiene gusto por las cosas, cuando se tiene gusto por algo bien hecho, por un gesto bonito, a veces no se encuentra la persona de enfrente, diría yo, el espejo que te ayuda a avanzar. Así que ese no es mi caso, como decía, porque al contrario, pude; y le digo gracias a la vida, le digo gracias, canto la vida, bailo la vida... ¡Sólo soy amor! Y por último, cuando la gente me dice « ¿Pero cómo consigues tener esta humanidad? », les respondo muy sencillamente que es este gusto por el amor, este gusto el que me ha empujado hoy a emprender una construcción mecánica... pero mañana ¿quién sabe? Quizá simplemente para ponerme al servicio de la comunidad, para hacer el don, el regalo de uno mismo."
+        }
+    },
+    "sw":{
+        "translation":{
+            "language1":"Franska",
+            "language2":"Engelska",
+            "language3":"Polska",
+            "language4":"Spanska",
+            "language5":"Svenska",
+            "fact":"Citat för att veta",
+            "Welcome": "Du vet, jag tror inte att det finns någon bra eller dålig situation. Om jag skulle sammanfatta mitt liv i dag skulle jag säga att det först och främst handlar om möten. Människor som sträckte ut handen till mig, kanske när jag inte kunde, när jag var ensam hemma. Och det är ganska märkligt att tro att slumpmässiga möten skapar ett öde... För när man har en smak för saker, när man har en smak för något välgjort, en vacker gest, hittar man ibland inte personen mittemot, skulle jag vilja säga, spegeln som hjälper en att gå vidare. Så det är inte mitt fall, som jag sa, för tvärtom, jag kunde det; och jag tackar livet, jag tackar det, jag sjunger livet, jag dansar livet... Jag är bara kärlek! Och slutligen, när folk säger till mig: « Men hur lyckas du ha den här mänskligheten? », svarar jag dem helt enkelt att det är denna smak för kärlek, denna smak som har drivit mig att i dag påbörja en mekanisk konstruktion... men vem vet i morgon? Kanske helt enkelt för att ställa mig själv till gemenskapens tjänst, för att göra gåvan, gåvan av mig själv."
+        }
+    }
+}

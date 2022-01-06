@@ -9,4 +9,13 @@
 
 .traductionInput{
   margin: 10px;
+  width: 80px;
+}
+
+.traductionText{
+  height: 17vh;
+}
+
+.traductionTitle{
+  text-align: center;
 }
